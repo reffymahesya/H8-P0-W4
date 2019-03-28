@@ -1,6 +1,6 @@
 function hapusSimbol(str) {
   // you can only write your code here!
-  return str.replace(/[^a-zA-Z0-9 ]/g,'')
+  return str.replace(/[^a-zA-Z0-9]/g,'')
 }
 
 // TEST CASES
